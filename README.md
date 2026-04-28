@@ -1,2 +1,7 @@
-# demo-odontologia-porquetanserio
-Demo web para Odontología - PorQuéTanSerio? — diseñada por eterlab.
+# Odontología - PorQuéTanSerio?
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
